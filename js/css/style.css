@@ -518,8 +518,8 @@ no-js
 
 
 #section1 { background: url(../../img/bg_main3_fix.png) no-repeat center center; background-size: cover;}
-#section1 h1{font-family: 'Lato', sans-serif;font-size: 58px;text-transform: none;}
-#section1 span{font-family: 'Noto Sans KR', sans-serif;font-size: 28px;text-transform: none;font-weight: 100;}
+#section1 h1{font-family: 'Lato', sans-serif;font-size: 3em;text-transform: none;}
+#section1 span{font-family: 'Noto Sans KR', sans-serif;font-size: 2rem;text-transform: none;font-weight: 100;}
 #skills h2,#skills figure { text-align: right;}
 #intro h2 { text-align: left;}
 figure {margin: 0}
