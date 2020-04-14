@@ -276,7 +276,7 @@ Vertical navigation
     top: 8px;
     height: 16px;
     width: 16px;
-    background: url(../img/cd-nav-icons.png) no-repeat;
+    background: url(../../img/cd-nav-icons.png) no-repeat;
     background-size: cover;
     -webkit-transform: translateX(-50%) scale(0);
     -moz-transform: translateX(-50%) scale(0);
@@ -458,7 +458,7 @@ Content Sections - basic style
   bottom: 20px;
   width: 44px;
   height: 44px;
-  background: url(../img/cd-arrow-bottom.png) no-repeat center center;
+  background: url(../../img/cd-arrow-bottom.png) no-repeat center center;
   background-size: cover;
 }
 
@@ -517,7 +517,7 @@ no-js
 
 
 
-#section1 { background: url(../img/bg_main3_fix.png) no-repeat center center; background-size: cover;}
+#section1 { background: url(../../img/bg_main3_fix.png) no-repeat center center; background-size: cover;}
 #section1 h1{font-family: 'Lato', sans-serif;font-size: 58px;text-transform: none;}
 #section1 span{font-family: 'Noto Sans KR', sans-serif;font-size: 28px;text-transform: none;font-weight: 100;}
 #skills h2,#skills figure { text-align: right;}
